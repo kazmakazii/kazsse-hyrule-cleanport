@@ -11,7 +11,8 @@ todos:
 6. fix and implement unused hylian hood (will require beastrace meshes, collision datas, etc)
    6.1. apply hdtsmp compat to hylian hood fabrics
 7. apply keywords for missing survival mode, etc to items
-8. LOTDv6 displays in safehouse
-9. mo2 fomod for slightly more user friendly install cus i dont trust any of you
-10. reformat, repack, etc
-11. figure out how the hell to go about natrually triggering amiibo spell on pc via skse plugin (concepts up in air)
+8. description framework ini
+9. LOTDv6 displays in safehouse
+10. mo2 fomod for slightly more user friendly install cus i dont trust any of you
+11. reformat, repack, etc
+12. figure out how the hell to go about natrually triggering amiibo spell on pc via skse plugin (concepts up in air)
